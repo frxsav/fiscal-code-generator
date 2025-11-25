@@ -238,7 +238,7 @@ export default function Home() {
               </Link>
               <Link
                 className="bg-teal-900 border border-teal-600 p-3 rounded-full group cursor-pointer"
-                href="https://www.linkedin.com/in/francesco-formisano-869285189/"
+                href="https://www.linkedin.com/in/formisano-francesco/"
                 title="linkedin"
                 target="_blank">
                 <FiLinkedin className="text-4xl text-stone-100 transition-all duration-300 group-hover:scale-110 z-50" />
